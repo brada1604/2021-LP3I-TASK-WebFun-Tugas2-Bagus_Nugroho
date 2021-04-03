@@ -1,1 +1,8 @@
-[NAMA INSTITUSI.docx](https://github.com/brada1604/LP3I-TASK-WebFun-Tugas2-Bagus_Nugroho/files/6252425/NAMA.INSTITUSI.docx)
+###### NAMA INSTITUSI 	: POLITEKNIK LP3I TASIKMALAYA
+###### JENIS KEGIATAN 	: TUGAS / TASK
+###### MATA KULIAH    	: WEBSITE FUNDAMENTAL
+###### PENGAJAR       	: Muhamad Farihin, ST, 
+###### NAMA FILE      	: WebFun-Tugas2-Bagus_Nugroho (TUGAS KE - 2)
+
+###### REGARDS, BAGUS NUGROHO
+###### Contact me at : bagusnugroho1604@gmail.com
