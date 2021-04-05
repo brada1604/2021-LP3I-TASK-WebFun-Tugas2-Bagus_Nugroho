@@ -4,7 +4,7 @@
 ###### MATA KULIAH    	: WEBSITE FUNDAMENTAL
 ###### PENGAJAR       	: Muhamad Farihin, ST, 
 ###### NAMA FILE      	: WebFun-Tugas2-Bagus_Nugroho (TUGAS KE - 2)
-###### LINK DEMO : https://brada1604.github.io/LP3I-TASK-WebFun-Tugas2-Bagus_Nugroho/bagus-index.html
+###### LINK DEMO : https://brada1604.github.io/2021-LP3I-TASK-WebFun-Tugas2-Bagus_Nugroho/bagus-index.html
 
 
 ###### REGARDS, BAGUS NUGROHO
